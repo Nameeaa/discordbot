@@ -78,4 +78,4 @@ async def on_message(message):
         else :
             await client.send_message(message.channel,"Bu İzne Sahip Değilsin")
 
-client.run("asd")
+client.run(process.env.BOT_TOKEN)
