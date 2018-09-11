@@ -78,4 +78,4 @@ async def on_message(message):
         else :
             await client.send_message(message.channel,"Bu İzne Sahip Değilsin")
 
-client.run("NDg4OTQ1ODAyNjA2MjgwNzA0.DnkUpg.W6kSPPK08wCuKs30nWcn5RFpsfE")
+client.run("asd")
